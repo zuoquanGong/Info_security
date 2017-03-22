@@ -1,0 +1,18 @@
+2017Äê03ÔÂ22ÈÕ12:45:58
+**********************
+
+origintext show:
+pass me that bread please.ÿ
+
+hskk ew lzsl tjwsv hdwskw.ÿ
+
+**********************
+
+origintext show:
+hskk ew lzsl tjwsv hdwskw.ÿÿ
+
+pass me that bread please.ÿÿ
+
+**********************
+
+Ô­ÎÄ´æÓÚclrtext.txt£¬ÃÜÎÄ´æÓÚout.txt£¬½âÂëºóµÄÎÄ±¾´æÓÚrecover.txt
